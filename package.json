@@ -1,0 +1,18 @@
+{
+  "name": "tutorial0910",
+  "version": "1.0.0",
+  "description": "Sample Code for Tutorial 9 - 10: Task Management Application using MERN Stack – Backend with NodeJS, ExpressJS and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Ngoc Khoa Tran",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5",
+    "nodemon": "^2.0.20"
+  }
+}
